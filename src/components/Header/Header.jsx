@@ -1,5 +1,6 @@
 import classes from "./Header.module.scss"
 import logo from '../../assets/logo.svg'
+
 export default function Header() {
 
     const navigationContent = [
